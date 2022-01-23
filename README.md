@@ -11,7 +11,18 @@ Project developed from the inspiration on JSMastery:
 Portfolio - https://muhammed-taufiq-portfolio.netlify.app/
 E-mail - mohammedtaufiq60@gmail.com
 
-Thanks you...!
+Thank you...!
+
+
+## Instruction
+Pls install metamask and create a Ethereum account.
+Connect the account with metamask using Connect Wallet button.
+Copy the account id and paste on the Address to section.
+Please use 0.00001 Ethereum because it has less ethereums.
+
+
+## Enjoy..!!
+
 
 
 
